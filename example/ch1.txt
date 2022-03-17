@@ -1,0 +1,5 @@
+outfile = ch1
+geom = geom1.txt
+sinb = 0 0
+pi = 1 pr.txt
+

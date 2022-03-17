@@ -1,0 +1,3 @@
+type = 1
+outfile = dummy
+pb = 0 1e5
